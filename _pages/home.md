@@ -27,13 +27,12 @@ nav_order: 1
 
 :loudspeaker: __The submission deadline is extended to June 6!__
 
-* Submission Begins: May 20, 2024
-  * Submission Portal: [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/LCFM)
+* Submission Begins: Aug 15, 2024
+  * Submission Portal: [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/customnlp4u)
   * Template: [Overleaf](https://www.overleaf.com/read/jnvskgmhbgdx#1a9c21)
-* Submission Deadline: ~~May 31, 2024~~ June 6, 2024 (11:59pm, anywhere on earth)
-* Notification of Acceptance: June 17, 2024
-* Camera-ready papers due: TBD
-* Workshop Date: July 26, 2024
+* Submission Deadline: Aug 15, 2024 (11:59pm, anywhere on earth)
+* Notification of Acceptance: Sep 30, 2024
+* Camera-ready papers due: Oct 7
 
 
 <br>
@@ -52,7 +51,7 @@ Many challenging tasks for foundation models require synthesizing information ov
 
 ### Guidelines
 
-* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/LCFM).
+* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/customnlp4u).
 * We welcome papers __up to 4 pages (max)__, not including references or appendix. 
   * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/read/jnvskgmhbgdx#1a9c21)) for your submission.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
@@ -69,9 +68,19 @@ Many challenging tasks for foundation models require synthesizing information ov
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/tianyu.jpeg" alt="Name 1">
-            <a href="https://gaotianyu.xyz/about/">Tianyu Gao</a>
+            <img src="/assets/img/organizers/sachin.png" alt="Name 1">
+            <a href="https://sites.google.com/view/sachinkumar">Sachin Kumar</a>
             <p>Princeton University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/amanda.png" alt="Name 3">
+            <p><a href="https://chan0park.github.io/">Chan Young Park</a>
+            <br>Carnegie Mellon University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/vidhisha.jpg" alt="Name 4">
+            <p><a href="https://vidhishanair.github.io/">Vidhisha Balachandran</a>
+            <br>Together.AI., Princeton University</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/weijia.png" alt="Name 2">
@@ -79,29 +88,10 @@ Many challenging tasks for foundation models require synthesizing information ov
             <br>University of Washington</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/amanda.png" alt="Name 3">
-            <p><a href="https://www.cs.cmu.edu/~abertsch/">Amanda Bertsch</a>
-            <br>Carnegie Mellon University</p>
+            <img src="/assets/img/organizers/shirley.jpeg" alt="Name 5">
+            <p><a href="https://www.shirley.id/">Shirley Anugrah Hayati</a>
+            <br>University of Minnesota, Twin Cities</p>
         </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/tri.png" alt="Name 4">
-            <p><a href="https://tridao.me/">Tri Dao</a>
-            <br>Together.AI., Princeton University</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/danqi.png" alt="Name 5">
-            <p><a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>
-            <br>Princeton University</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/graham.jpeg" alt="Name 6">
-            <p><a href="https://phontron.com/">Graham Neubig</a>
-            <br>Carnegie Mellon University</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/chris.jpg" alt="Name 7">
-            <p><a href="https://cs.stanford.edu/~chrismre/">Christopher Ré</a>
-            <br>Stanford University</p>
         </div>
     </div>
 </html>
