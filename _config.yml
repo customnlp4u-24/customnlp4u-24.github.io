@@ -2,15 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Long Context Foundation Models @ ICML 2024 # the website title (if blank, full name will be used instead)
+title: Customizable NLP @ EMNLP 2024 # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name:
 last_name: 
 email: longcontextfm@googlegroups.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-  Workshop on long-context foundation models (LCFM) @ ICML 2024
-keywords: i cfm, long-context-foundation-models, workshop, icml  # add your own keywords or leave empty
+  Workshop on Customizable NLP @ EMNLP 2024
+keywords: customizable NLP, workshop, emnlp  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🦙  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
