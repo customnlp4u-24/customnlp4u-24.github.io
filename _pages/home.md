@@ -27,7 +27,7 @@ nav_order: 1
 
 :loudspeaker: __The submission deadline is extended to June 6!__
 
-* Submission Begins: Aug 15, 2024
+* Submission Begins:
   * Submission Portal: [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/customnlp4u)
   * Template: [Overleaf](https://www.overleaf.com/read/jnvskgmhbgdx#1a9c21)
 * Submission Deadline: Aug 15, 2024 (11:59pm, anywhere on earth)
@@ -95,6 +95,7 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
         </div>
         </div>
 </html>
+<br>
 
 
 ## Steering Committee
