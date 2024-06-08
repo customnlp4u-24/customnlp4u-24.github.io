@@ -41,12 +41,12 @@ nav_order: 1
 
 For NLP models to be usable in practice, particularly in emerging scenarios with widely varying use cases, situations, and user expectations, there is a need to develop models that can be tailored to different consumers (individuals, groups, or organizations) and easily controlled by them; models that can reason about their users’ (often private) knowledge and context to provide personalized responses. The topics of this workshop include (but not limited to):
 
-* Data: Data collection, processing, analysis, and annotation efforts to increase representation and aid customization; discussion and analysis of data sources not publicly available, and associated issues of privacy and copyright.
-* Modeling: New pretraining, fine-tuning, inference methods for customizing NLP models; customizing reward models and model alignment to diverse consumers. New modeling paradigms aimed at customization such as model ensembles, model averaging, federated learning, nonparametric models, etc.; customizing models at inference time via prompting, in-context learning, chain-of-thought prompting, etc.
-* Evaluation of existing generalist, non-customized models, identifying their shortcomings for varied use-cases; evaluation of customization techniques and customized models; interpretability and analysis of customization patterns across different kinds of consumers.
-* Open Science: Best practices for open and reproducible science concerning customizable NLP: dataset release and licensing, open-sourcing models, related privacy, copyright, and policy issues.
-* Applications: e.g., information seeking on sensitive data comprising legal, medical, or financial information; NLP models for communities reflecting sociolects, dialects, or other language varieties; personalized AI assistants, etc.
-* Ethical Issues: privacy and copyright; personalization, intrusiveness, unintended biases; invisibility versus hypervisibility.
+* __Data__: Data collection, processing, analysis, and annotation efforts to increase representation and aid customization; discussion and analysis of data sources not publicly available, and associated issues of privacy and copyright.
+* __Modeling__: New pretraining, fine-tuning, inference methods for customizing NLP models; customizing reward models and model alignment to diverse consumers. New modeling paradigms aimed at customization such as model ensembles, model averaging, federated learning, nonparametric models, etc.; customizing models at inference time via prompting, in-context learning, chain-of-thought prompting, etc.
+* __Evaluation__: Evaluation of existing generalist, non-customized models, identifying their shortcomings for varied use-cases; evaluation of customization techniques and customized models; interpretability and analysis of customization patterns across different kinds of consumers.
+* __Open Science__: Best practices for open and reproducible science concerning customizable NLP: dataset release and licensing, open-sourcing models, related privacy, copyright, and policy issues.
+* __Applications__: e.g., information seeking on sensitive data comprising legal, medical, or financial information; NLP models for communities reflecting sociolects, dialects, or other language varieties; personalized AI assistants, etc.
+* __Ethical Issues__: privacy and copyright; personalization, intrusiveness, unintended biases; invisibility versus hypervisibility.
 
 <br>
 
@@ -94,7 +94,6 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
             <br>University of Minnesota, Twin Cities</p>
         </div>
         </div>
-    </div>
 </html>
 
 
@@ -102,7 +101,7 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/yulia.png" alt="Name 1">
+            <img src="/assets/img/organizers/yulia.jpg" alt="Name 1">
             <a href="https://homes.cs.washington.edu/~yuliats/">Yulia Tsvetkov</a>
             <p>University of Washington</p>
         </div>
@@ -127,7 +126,6 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
             <br>University of Michigan</p>
         </div>
         </div>
-    </div>
 </html>
 
 <style>
