@@ -39,13 +39,14 @@ nav_order: 1
 
 ### Topics of Interest
 
-Many challenging tasks for foundation models require synthesizing information over thousands to millions of individual pieces of data, which may take many forms, including images, text, audio, genomes, etc. Our workshop aims to convene researchers to address challenges in long-context foundation models, fostering discussions, developments, deployments, evaluation, and understanding of long-context foundation models across various AI disciplines. The topics of this workshop include (but not limited to):
+For NLP models to be usable in practice, particularly in emerging scenarios with widely varying use cases, situations, and user expectations, there is a need to develop models that can be tailored to different consumers (individuals, groups, or organizations) and easily controlled by them; models that can reason about their users’ (often private) knowledge and context to provide personalized responses. The topics of this workshop include (but not limited to):
 
-* New modeling, training, and data strategies.
-* Efficiency techniques for (long-context) foundation models.
-* Evaluation and understanding of long-context models.
-* Retrieval-augmented foundation models.
-* Interdisciplinary applications of LCFMs.
+* Data: Data collection, processing, analysis, and annotation efforts to increase representation and aid customization; discussion and analysis of data sources not publicly available, and associated issues of privacy and copyright.
+* Modeling: New pretraining, fine-tuning, inference methods for customizing NLP models; customizing reward models and model alignment to diverse consumers. New modeling paradigms aimed at customization such as model ensembles, model averaging, federated learning, nonparametric models, etc.; customizing models at inference time via prompting, in-context learning, chain-of-thought prompting, etc.
+* Evaluation of existing generalist, non-customized models, identifying their shortcomings for varied use-cases; evaluation of customization techniques and customized models; interpretability and analysis of customization patterns across different kinds of consumers.
+* Open Science: Best practices for open and reproducible science concerning customizable NLP: dataset release and licensing, open-sourcing models, related privacy, copyright, and policy issues.
+* Applications: e.g., information seeking on sensitive data comprising legal, medical, or financial information; NLP models for communities reflecting sociolects, dialects, or other language varieties; personalized AI assistants, etc.
+* Ethical Issues: privacy and copyright; personalization, intrusiveness, unintended biases; invisibility versus hypervisibility.
 
 <br>
 
@@ -70,17 +71,17 @@ Many challenging tasks for foundation models require synthesizing information ov
         <div class="team-member">
             <img src="/assets/img/organizers/sachin.png" alt="Name 1">
             <a href="https://sites.google.com/view/sachinkumar">Sachin Kumar</a>
-            <p>Princeton University</p>
+            <p>University of Washington</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/amanda.png" alt="Name 3">
+            <img src="/assets/img/organizers/chan.jpg" alt="Name 3">
             <p><a href="https://chan0park.github.io/">Chan Young Park</a>
-            <br>Carnegie Mellon University</p>
+            <br>University of Washington</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/vidhisha.jpg" alt="Name 4">
             <p><a href="https://vidhishanair.github.io/">Vidhisha Balachandran</a>
-            <br>Together.AI., Princeton University</p>
+            <br>University of Washington</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/weijia.png" alt="Name 2">
@@ -96,6 +97,38 @@ Many challenging tasks for foundation models require synthesizing information ov
     </div>
 </html>
 
+
+## Steering Committee
+<html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/organizers/yulia.png" alt="Name 1">
+            <a href="https://homes.cs.washington.edu/~yuliats/">Yulia Tsvetkov</a>
+            <p>University of Washington</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/noah.jpg" alt="Name 3">
+            <p><a href="https://nasmith.github.io/">Noah A. Smith</a>
+            <br>University of Washington</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/hanna.jpg" alt="Name 4">
+            <p><a href="https://homes.cs.washington.edu/~hannaneh/">Hannaneh Hajishirzi</a>
+            <br>University of Washington</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/dykang.jpg" alt="Name 2">
+            <p><a href="https://dykang.github.io/">Dongyeop Kang</a>
+            <br>University of Minnesota, Twin Cities</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/david.jpg" alt="Name 5">
+            <p><a href="https://jurgens.people.si.umich.edu/">David Jurgens</a>
+            <br>University of Michigan</p>
+        </div>
+        </div>
+    </div>
+</html>
 
 <style>
     /* Style for the team container */
