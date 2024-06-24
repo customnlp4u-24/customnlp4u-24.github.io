@@ -2,7 +2,7 @@
 layout: default2
 title: home
 permalink: /
-title: <h3  align="center">Workshop on Long Context Foundation Models (LCFM)</h3>
+title: <h3  align="center">Workshop on CustomNLP4U</h3>
 nav_order: 1
 ---
 
@@ -29,7 +29,7 @@ nav_order: 1
 
 * Submission Begins:
   * Submission Portal: [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/customnlp4u)
-  * Template: [Overleaf](https://www.overleaf.com/read/jnvskgmhbgdx#1a9c21)
+  * Template: [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-emnlp-2023-proceedings/scyjxmtnrskr) (4 pages)
 * Submission Deadline: Aug 15, 2024 (11:59pm, anywhere on earth)
 * Notification of Acceptance: Sep 30, 2024
 * Camera-ready papers due: Oct 7
@@ -71,17 +71,17 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
         <div class="team-member">
             <img src="/assets/img/organizers/sachin.png" alt="Name 1">
             <a href="https://sites.google.com/view/sachinkumar">Sachin Kumar</a>
-            <p>University of Washington</p>
+            <p>Ohio State University, Allen Institute for AI</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/chan.jpg" alt="Name 3">
             <p><a href="https://chan0park.github.io/">Chan Young Park</a>
-            <br>University of Washington</p>
+            <br>Carnegie Mellon University</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/vidhisha.jpg" alt="Name 4">
             <p><a href="https://vidhishanair.github.io/">Vidhisha Balachandran</a>
-            <br>University of Washington</p>
+            <br>Microsoft Research</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/weijia.png" alt="Name 2">
