@@ -29,7 +29,6 @@ nav_order: 1
 
 * Submission Begins:
   * Submission Portal: [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/customnlp4u)
-  * Template: [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-emnlp-2023-proceedings/scyjxmtnrskr) (4 pages)
 * Submission Deadline: Aug 15, 2024 (11:59pm, anywhere on earth)
 * Notification of Acceptance: Sep 30, 2024
 * Camera-ready papers due: Oct 7
