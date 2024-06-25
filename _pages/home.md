@@ -25,10 +25,8 @@ nav_order: 1
 <br>
 ### Important Dates
 
-:loudspeaker: __The submission deadline is extended to June 6!__
-
 * Submission Begins:
-  * Submission Portal: [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/customnlp4u)
+  * Submission Portal: [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/CustomNLP4U)
 * Submission Deadline: Aug 15, 2024 (11:59pm, anywhere on earth)
 * Notification of Acceptance: Sep 30, 2024
 * Camera-ready papers due: Oct 7
@@ -51,15 +49,13 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
 
 ### Guidelines
 
-* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/customnlp4u).
-* We welcome papers __up to 4 pages (max)__, not including references or appendix. 
+* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/CustomNLP4U).
+* We welcome both short (__up to 4 pages__) and long papers (__up to 8 pages__), not including references or appendix. 
   * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/read/jnvskgmhbgdx#1a9c21)) for your submission.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
   * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
   * Posting papers on preprint servers like ArXiv is permitted.
-* This is a __non-archival__ workshop. No submission will be indexed nor have archival proceedings.
-  * Accepted papers will appear on the workshop website. They will also be available on OpenReview and ICML virtual site.
-  * We accept submissions that are under review at other venues (e.g., NeurIPS 2024), as long as this does not violate the dual-submission / anonymity policy of the other venue.
+* This workshop offers both archival and non-archival options for submissions. Archival papers will be indexed with proceedings, while non-archival submissions will not.
 * The review process will be double-blind.
 <br>
 
