@@ -51,7 +51,7 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
 
 * Paper submission is hosted on [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/CustomNLP4U).
 * We welcome both short (__up to 4 pages__) and long papers (__up to 8 pages__), not including references or appendix. 
-  * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/read/jnvskgmhbgdx#1a9c21)) for your submission.
+  * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)) for your submission.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
   * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
   * Posting papers on preprint servers like ArXiv is permitted.
