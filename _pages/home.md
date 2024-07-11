@@ -29,7 +29,8 @@ nav_order: 1
   * Submission Portal: [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/CustomNLP4U)
 * Submission Deadline: Aug 15, 2024 (11:59pm, anywhere on earth)
 * Notification of Acceptance: Sep 30, 2024
-* Camera-ready papers due: Oct 7
+* Camera-ready papers due: Oct 7 (11:59pm, anywhere on earth)
+* Workshop Date: co-located with EMNLP 2024 in November, Miami (exact date to be announced)
 
 
 <br>
@@ -49,12 +50,15 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
 
 ### Guidelines
 
+* Our author guidelines follow the ARR requirements unless otherwise specified. 
 * Paper submission is hosted on [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/CustomNLP4U&referrer=%5BHomepage%5D(%2F)#tab-your-consoles).
 * We welcome both short (__up to 4 pages__) and long papers (__up to 8 pages__), not including references or appendix. 
-  * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)) for your submission.
+  * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)) for your submission. Please follow the paper formatting guidelines general to “*ACL” conferences as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
   * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
   * Posting papers on preprint servers like ArXiv is permitted.
+  * We encourage each submission to discuss the ethical and societal implications of their work, wherever applicable. 
+
 * This workshop offers both archival and non-archival options for submissions. Archival papers will be indexed with proceedings, while non-archival submissions will not.
 * The review process will be double-blind.
 <br>
