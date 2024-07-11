@@ -11,11 +11,11 @@ nav_order: 2
 More coming soon
 <html>
     <div class="team-container">
-        <div class="team-member">
+        <!-- <div class="team-member">
             <img src="/assets/img/speakers/hannah.jpg" alt="Hannah Kirk">
             <p><a href="#">Hannah Kirk</a>
             <br>University of Oxford</p>
-        </div>
+        </div> -->
         <div class="team-member">
             <img src="/assets/img/speakers/jared.jpg" alt="Jared Roesch">
             <p><a href="#">Jared Roesche</a>
