@@ -11,19 +11,19 @@ nav_order: 2
 More coming soon
 <html>
     <div class="team-container">
-        <!-- <div class="team-member">
-            <img src="/assets/img/speakers/hannah.jpg" alt="Hannah Kirk">
-            <p><a href="#">Hannah Kirk</a>
+        <div class="team-member">
+            <img src="/assets/img/speakers/hannah.jpg" alt="Hannah Rose Kirk">
+            <p><a href="https://www.hannahrosekirk.com/">Hannah Rose Kirk</a>
             <br>University of Oxford</p>
-        </div> -->
+        </div>
         <div class="team-member">
             <img src="/assets/img/speakers/jared.jpg" alt="Jared Roesch">
-            <p><a href="#">Jared Roesche</a>
+            <p><a href="https://jroesch.github.io/">Jared Roesche</a>
             <br>Octo AI, University of Washington</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/diyi.jpg" alt="Diyi Yang">
-            <p><a href="#">Diyi Yang</a>
+            <p><a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a>
             <br>Stanford University</p>
         </div>
         <!-- <div class="team-member">
