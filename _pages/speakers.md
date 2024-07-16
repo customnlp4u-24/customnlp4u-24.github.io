@@ -12,7 +12,7 @@ More coming soon
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/speakers/hannah.jpg" alt="Hannah Rose Kirk">
+            <img src="/assets/img/speakers/hannah.jpeg" alt="Hannah Rose Kirk">
             <p><a href="https://www.hannahrosekirk.com/">Hannah Rose Kirk</a>
             <br>University of Oxford</p>
         </div>
@@ -58,7 +58,7 @@ Coming soon
             <img src="/assets/img/speakers/x.jpg" alt="Mitchell">
             <p><a href="#">Mitchell</a>
             <br>Columbia University</p>
-        </div> -->
+        </div>
     </div>
 </html> -->
 
