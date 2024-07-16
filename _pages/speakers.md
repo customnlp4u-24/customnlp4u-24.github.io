@@ -34,6 +34,34 @@ More coming soon
     </div>
 </html>
 
+## Panel
+
+Coming soon
+<!-- <html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/speakers/hannah.jpg" alt="Hannah Rose Kirk">
+            <p><a href="https://www.hannahrosekirk.com/">Hannah Rose Kirk</a>
+            <br>University of Oxford</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/jared.jpg" alt="Jared Roesch">
+            <p><a href="https://jroesch.github.io/">Jared Roesche</a>
+            <br>Octo AI, University of Washington</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/diyi.jpg" alt="Diyi Yang">
+            <p><a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a>
+            <br>Stanford University</p>
+        </div>
+        <!-- <div class="team-member">
+            <img src="/assets/img/speakers/x.jpg" alt="Mitchell">
+            <p><a href="#">Mitchell</a>
+            <br>Columbia University</p>
+        </div> -->
+    </div>
+</html> -->
+
 
 <style>
     /* Style for the team container */
