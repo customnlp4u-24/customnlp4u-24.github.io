@@ -30,7 +30,7 @@ nav_order: 1
 * Submission Deadline: ~~Aug 15, 2024~~ **Aug 28, 2024** (11:59pm, anywhere on earth)
 * Notification of Acceptance: Sep 30, 2024
 * Camera-ready papers due: Oct 7 (11:59pm, anywhere on earth)
-* Workshop Date: co-located with EMNLP 2024 in November, Miami (exact date to be announced)
+* Workshop Date: Sat, Nov 16 co-located with EMNLP 2024 in November, Miami
 
 **Submission deadline has been extended to Aug 28!**
 <br>
