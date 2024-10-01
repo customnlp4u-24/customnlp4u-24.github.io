@@ -28,11 +28,12 @@ nav_order: 1
 * Submission Begins:
   * Submission Portal: [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/CustomNLP4U)
 * Submission Deadline: ~~Aug 15, 2024~~ **Aug 28, 2024** (11:59pm, anywhere on earth)
-* Notification of Acceptance: Sep 30, 2024
+* Notification of Acceptance: ~~Sep 30, 2024~~ **Oct 4, 2024**
 * Camera-ready papers due: Oct 7 (11:59pm, anywhere on earth)
 * Workshop Date: Sat, Nov 16 co-located with EMNLP 2024 in November, Miami
 
 **Submission deadline has been extended to Aug 28!**
+**The notification date has been postponed to October 4th. If you have any urgent requests or questions, please contact us at customnlp4u@gmail.com.**
 <br>
 
 ### Topics of Interest
