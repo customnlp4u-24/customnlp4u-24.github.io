@@ -32,8 +32,7 @@ nav_order: 1
 * Camera-ready papers due: Oct 7 (11:59pm, anywhere on earth)
 * Workshop Date: Sat, Nov 16 co-located with EMNLP 2024 in November, Miami
 
-Submission deadline has been extended to Aug 28! 
-**The notification date has been postponed to October 4th. If you have any urgent requests or questions, please contact us at customnlp4u@gmail.com.**
+**EMNLP Findings Papers:** If you would like to present your findings paper as a poster at our workshop, please email us at customnlp4u@gmail.com by October 20th. In your email, please include the following details: the title, abstract, a link to the paper, and a brief explanation of how the paper fits with the theme of our workshop.
 <br>
 
 ### Topics of Interest
