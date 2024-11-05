@@ -3,12 +3,35 @@ layout: page
 permalink: /schedule/
 title: Schedule
 nav: true
-nav_order: 5
+nav_order: 2
 ---
+# Speakers
+<html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/speakers/diyi.jpg" alt="Diyi Yang">
+            <p><a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a>
+            <br>Stanford University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/hannah.jpeg" alt="Hannah Rose Kirk">
+            <p><a href="https://www.hannahrosekirk.com/">Hannah Rose Kirk</a>
+            <br>University of Oxford</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/jared.jpg" alt="Jared Roesch">
+            <p><a href="https://jroesch.github.io/">Jared Roesche</a>
+            <br>Nvidia, ex-Octo AI, University of Washington</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/maartje.jpg" alt="Maartje Ter Hoeve">
+            <p><a href="https://maartjeth.github.io">Maartje ter Hoeve</a>
+            <br>Apple ML Research</p>
+        </div>
+    </div>
+</html>
+
 # Schedule
-
-
-
 
 <br>
 
