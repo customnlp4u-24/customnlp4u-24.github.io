@@ -7,10 +7,13 @@ nav_order: 2
 ---
 
 ## Talks
-
-More coming soon
 <html>
     <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/speakers/diyi.jpg" alt="Diyi Yang">
+            <p><a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a>
+            <br>Stanford University</p>
+        </div>
         <div class="team-member">
             <img src="/assets/img/speakers/hannah.jpeg" alt="Hannah Rose Kirk">
             <p><a href="https://www.hannahrosekirk.com/">Hannah Rose Kirk</a>
@@ -19,12 +22,12 @@ More coming soon
         <div class="team-member">
             <img src="/assets/img/speakers/jared.jpg" alt="Jared Roesch">
             <p><a href="https://jroesch.github.io/">Jared Roesche</a>
-            <br>Octo AI, University of Washington</p>
+            <br>Nvidia, ex-Octo AI, University of Washington</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/speakers/diyi.jpg" alt="Diyi Yang">
-            <p><a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a>
-            <br>Stanford University</p>
+            <img src="/assets/img/speakers/maartje.jpg" alt="Maartje Ter Hoeve">
+            <p><a href="https://maartjeth.github.io">Maartje ter Hoeve</a>
+            <br>Apple ML Research</p>
         </div>
         <!-- <div class="team-member">
             <img src="/assets/img/speakers/x.jpg" alt="Mitchell">
@@ -34,9 +37,6 @@ More coming soon
     </div>
 </html>
 
-## Panel
-
-Coming soon
 <!-- <html>
     <div class="team-container">
         <div class="team-member">
