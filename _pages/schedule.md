@@ -27,9 +27,9 @@ nav_order: 5
 | 14:00-14:45 | Invited Talk 4 |
 | 14:45-15:30 | Invited Talk 5 - Maartje Ter Hoeve (Apple)  |
 | 15:30-16:00  | Coffee Break |
-| 16:00-16:30 | Oral Presentations (10 min each) |
-| | 1. Understanding Hidden Context in Preference Learning: Consequences for RLHF |
-| | 2. Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game |
-| | 3. Understanding the Effects of RLHF on LLM Generalisation and Diversity |
+| 16:00-16:30 | Outstanding Papers Oral Presentations (10 min each) |
+| | 1. Constructing Domain-Specific Evaluation Sets for LLM-as-a-judge |
+| | 2. Trustful LLMs: Customizing and Grounding Text Generation with knowledge bases and Dual Decoders |
+| | 3. Customizing LLM Generation in Safety Scenarios with Active Learning for Enhanced Representativeness and Robustness |
 | 16:30-17:00 | Best Paper Award + Closing Remarks |
 
