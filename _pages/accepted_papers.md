@@ -9,7 +9,46 @@ nav_order: 3
 
 # Accepted Papers
 
-To be announced
+- Navigate Complex Physical Worlds via Geometrically Constrained LLM
+- Empowering AAC Users: A Systematic Integration of Personal Narratives with Conversational AI
+- LLM-Based Robust Product Classification in Commerce and Compliance
+- KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server
+- Less is Fed More: Sparsity Reduces Feature Distortion in Federated Learning
+- Understanding Players as if They Are Talking to the Game in a Customized Language: A Pilot Study
+- L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Models
+- Grounded Language Agent for Product Search via Intelligent Web Interactions
+- AdaptEval: Evaluating Large Language Models on Domain Adaptation for Text Summarization
+- EPR: An Expert Behavior-enhanced Paper Ranking Framework for the Automotive Industry
+- Large Language Models and Knowledge Graphs for Enhanced Supply Chain Visibility
+- CPS-TaskForge: Generating Collaborative Problem Solving Environments for Diverse Communication Tasks
+- Active Learning for Robust and Representative LLM Generation in Safety-Critical Scenarios
+- Exploring the Readiness of Prominent Small Language Models for the Democratization of Financial Literacy
+- Customized Style Transfer using Discrete Sampling
+- Trustful LLMs: Customizing and Grounding Text Generation with knowledge bases and Dual Decoders
+- Constructing Domain-Specific Evaluation Sets for LLM-as-a-judge
+- Does This Summary Answer My Question? Modeling Query-Focused Summary Readers with Rational Speech Acts
+- LLM-Driven Learning Analytics Dashboard for Teachers in EFL Writing Education
+- Learning to Adapt Large Language Models to One-Shot In-Context Intent Classification on Unseen Domains
+- Pearl: Personalizing Large Language Model Writing Assistants with Generation-Calibrated Retrievers
+- Authorship Style Transfer with Policy Optimization
+- Predicting Downstream Performance in LLMs
+- Evaluating and Training Long-Context Large Language Models for Question Answering on Scientific Papers
+- HyPA-RAG: A Hybrid Parameter Adaptive Retrieval-Augmented Generation System for AI Legal and Policy Applications
+- What Kind of Sourcery is This? Evaluating GPT-4's Performance on Linking Scientific Fact to Citations
+- “Let’s Argue Both Sides”: Argument Generation Can Force Small Models to Utilize Previously Inaccessible Reasoning Capabilities
+- LLM-as-a-tutor in EFL Writing Education: Focusing on Evaluation of Student-LLM Interaction
+- E-Commerce Product Categorization with LLM-based Dual-Expert Classification Paradigm
+- Vocabulary Transfer for Biomedical Texts: Add Tokens if You Can Not Add Data
+- Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization
+- Adapting LLM Predictions in In-Context Learning with Data Priors
+- V-GlórIA - Customizing Large Vision and Language Models to European Portuguese
+- Exploring the Potential of Large Language Models to Simulate Personality
+- Can LLM be a Personalized Judge?
+- Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical Questioning for Socratic Code Debugging
+- Extrinsic Evaluation of Cultural Competence in Large Language Models
+- DOLOMITES: Domain-Specific Long-Form Methodical Tasks
+- Learning to Decode Collaboratively with Multiple Language Models
+
 
 <!--
 <br>
@@ -17,6 +56,7 @@ __Links: [[OpenReview Portal]](https://openreview.net/group?id=NeurIPS.cc/2023/W
 <br>__Note:__ Authors are encouraged to contact us to add links to posters, videos, and other materials related to their paper.
 
 ---
+
 
 [Improved Baselines with Visual Instruction Tuning](https://openreview.net/forum?id=yx3Hkx5ved)
 <br>Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee
