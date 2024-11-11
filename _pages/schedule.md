@@ -24,6 +24,11 @@ nav_order: 2
             <br>Nvidia, ex-Octo AI, University of Washington</p>
         </div>
         <div class="team-member">
+            <img src="/assets/img/speakers/manling.jpg" alt="Manling Li">
+            <p><a href="https://limanling.github.io">Manling Li</a>
+            <br>Northwestern University</p>
+        </div>
+        <div class="team-member">
             <img src="/assets/img/speakers/maartje.jpg" alt="Maartje Ter Hoeve">
             <p><a href="https://maartjeth.github.io">Maartje ter Hoeve</a>
             <br>Apple ML Research</p>
@@ -45,9 +50,9 @@ nav_order: 2
 | 11:00-12:00 | Poster Session |
 |-------------|:-------------|
 |__PM__||
-| 13:00-13:15 | Ligtening Slides |
-| 13:15-14:00 | Invited Talk 3 - Jared Roesch |
-| 14:00-14:45 | Invited Talk 4 |
+| 13:00-13:10 | Ligtening Slides |
+| 13:10-14:00 | Invited Talk 3 - Jared Roesch (Nvidia) |
+| 14:00-14:45 | Invited Talk 4 - Manling Li (Northwestern) |
 | 14:45-15:30 | Invited Talk 5 - Maartje Ter Hoeve (Apple)  |
 | 15:30-16:00  | Coffee Break |
 | 16:00-16:30 | Outstanding Papers Oral Presentations (10 min each) |
