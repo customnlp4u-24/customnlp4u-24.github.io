@@ -50,7 +50,6 @@ nav_order: 2
 | 11:00-12:00 | Poster Session |
 |-------------|:-------------|
 |__PM__||
-| 13:00-13:10 | Ligtening Slides |
 | 13:10-14:00 | Invited Talk 3 - Jared Roesch (Nvidia) |
 | 14:00-14:45 | Invited Talk 4 - Manling Li (Northwestern) |
 | 14:45-15:30 | Invited Talk 5 - Maartje Ter Hoeve (Apple)  |
