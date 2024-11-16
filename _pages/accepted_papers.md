@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 # Accepted Papers
-
+We received 78 paper submissions. Among 71 active submissions, we accepted 34 papers (acceptance rate: 47.9%). Additionally, we accepted 5 papers from findings and previous *CL conferences as part of our program.
 
 ### Archival (25)
 - [Navigate Complex Physical Worlds via Geometrically Constrained LLM](https://aclanthology.org/2024.customnlp4u-1.1/)  
@@ -71,7 +71,7 @@ nav_order: 3
 *Sara Almahri | Liming Xu | Alexandra Brintrup*
 - **Does This Summary Answer My Question? Modeling Query-Focused Summary Readers with Rational Speech Acts**  
 *Cesare Spinoso-Di Piano | Jackie CK Cheung*
-- **LLM-Driven Learning Analytics Dashboard for Teachers in EFL Writing Education**
+- **LLM-Driven Learning Analytics Dashboard for Teachers in EFL Writing Education**  
 *Minsun Kim | SeonGyeom Kim | Suyoun Lee | Yoosang Yoon | Junho Myung | Haneul Yoo | Hyunseung Lim | Jieun Han | Yoonsu Kim | So-Yeon Ahn | Juho Kim | Alice Oh | Hwajung Hong | Tak Yeon Lee*
 - **Authorship Style Transfer with Policy Optimization**  
 *Shuai Liu | Shantanu Agarwal | Jonathan May*
@@ -83,13 +83,13 @@ nav_order: 3
 *Yu-Min Tseng | Yu-Chao Huang | Teng-Yun Hsiao | Wei-Lin Chen | Chao-Wei Huang | Yu Meng | Yun-Nung Chen*
 
 ### Findings Papers (5)
-- [**Can LLM be a Personalized Judge?**](https://aclanthology.org/2024.findings-emnlp.592/)  
+- [Can LLM be a Personalized Judge?](https://aclanthology.org/2024.findings-emnlp.592/)  
 *Yijiang River Dong | Tiancheng Hu | Nigel Collier*
-- [**Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical Questioning for Socratic Code Debugging**](https://aclanthology.org/2024.findings-emnlp.553/)  
+- [Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical Questioning for Socratic Code Debugging](https://aclanthology.org/2024.findings-emnlp.553/)  
 *Priyanka Kargupta | Ishika Agarwal | Dilek Hakkani Tur | Jiawei Han*
-- [**Extrinsic Evaluation of Cultural Competence in Large Language Models**](https://aclanthology.org/2024.findings-emnlp.942/)  
+- [Extrinsic Evaluation of Cultural Competence in Large Language Models](https://aclanthology.org/2024.findings-emnlp.942/)  
 *Shaily Bhatt | Fernando Diaz*
-- [**DOLOMITES: Domain-Specific Long-Form Methodical Tasks**](https://arxiv.org/abs/2405.05938)  
+- [DOLOMITES: Domain-Specific Long-Form Methodical Tasks](https://arxiv.org/abs/2405.05938)  
 *Chaitanya Malaviya | Priyanka Agrawal | Kuzman Ganchev | Pranesh Srinivasan | Fantine Huot | Jonathan Berant | Mark Yatskar | Dipanjan Das | Mirella Lapata | Chris Alberti*
-- [**Learning to Decode Collaboratively with Multiple Language Models**](https://aclanthology.org/2024.acl-long.701/)  
+- [Learning to Decode Collaboratively with Multiple Language Models](https://aclanthology.org/2024.acl-long.701/)  
 *Zejiang Shen | Hunter Lang | Bailin Wang | Yoon Kim | David Sontag* 
