@@ -61,6 +61,10 @@ We received 78 paper submissions. Among 71 active submissions, we accepted 34 pa
 *Afonso Simplício | David Semedo | Joao Magalhaes*
 - **Exploring the Potential of Large Language Models to Simulate Personality**  
 *Maria Molchanova | Anna Mikhailova | Anna Korzanova | Lidiia Ostyakova | Alexandra Dolidze*
+- **Authorship Style Transfer with Policy Optimization**  
+*Shuai Liu | Shantanu Agarwal | Jonathan May*
+- **Vocabulary Transfer for Biomedical Texts: Add Tokens if You Can Not Add Data**  
+*Priyanka Singh | Vladislav D. Mosin | Ivan P. Yamshchikov*
 
 ### Non-Archival (9)
 - **KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**  
@@ -73,12 +77,8 @@ We received 78 paper submissions. Among 71 active submissions, we accepted 34 pa
 *Cesare Spinoso-Di Piano | Jackie CK Cheung*
 - **LLM-Driven Learning Analytics Dashboard for Teachers in EFL Writing Education**  
 *Minsun Kim | SeonGyeom Kim | Suyoun Lee | Yoosang Yoon | Junho Myung | Haneul Yoo | Hyunseung Lim | Jieun Han | Yoonsu Kim | So-Yeon Ahn | Juho Kim | Alice Oh | Hwajung Hong | Tak Yeon Lee*
-- **Authorship Style Transfer with Policy Optimization**  
-*Shuai Liu | Shantanu Agarwal | Jonathan May*
 - **Predicting Downstream Performance in LLMs**  
 *Yangyi Chen | Binxuan Huang | Yifan Gao | Zhengyang Wang | Jingfeng Yang | Heng Ji*
-- **Vocabulary Transfer for Biomedical Texts: Add Tokens if You Can Not Add Data**  
-*Priyanka Singh | Vladislav D. Mosin | Ivan P. Yamshchikov*
 - **Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization**  
 *Yu-Min Tseng | Yu-Chao Huang | Teng-Yun Hsiao | Wei-Lin Chen | Chao-Wei Huang | Yu Meng | Yun-Nung Chen*
 
